@@ -93,8 +93,8 @@ escreval ("de nada ;)")
 
 outrocaso
  //avisa o usuário que ele(a) fez merda
- escreval ("essa opção não existe seu merda D:<")
- escreval ("tenta denovo e escolhe uma opção que existe!")
+ escreval ("essa opção não existe")
+ escreval ("tenta denovo e escolha algo entre 1 e 4!")
  fimescolha
 
 Fimalgoritmo
